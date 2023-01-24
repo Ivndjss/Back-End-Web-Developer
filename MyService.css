@@ -99,6 +99,8 @@ nav .fas{
 @media only screen and (max-width: 480px){
     #header{
         background-color: #262626;
+        width: 100vw; /* add this */
+        height: 10vh; /* add this */
     }
     .header-text{
         margin-top: 100%;
